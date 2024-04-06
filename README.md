@@ -4,7 +4,8 @@ Juego de plataformas Unity
 
 
 ## Comenzando 🚀
-Si solo quieres probarlo baja el ejecutable.rar y ejecuta el exe, si lo que quieres es modificarlo clona el repo y abre el proyecto en Unity 
+Para probarlo visita:
+https://fernandofcsp.github.io/juegoPlataformasUnity/
 
 ### Pre-requisitos 📋
 Visual studio 
